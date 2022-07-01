@@ -99,6 +99,9 @@ header {
 	font-family: "Open Sans";
 	box-shadow: 2px 2px 6px 0px hsla(208, 11%, 55%, 0.51);
 }
+#section-1 {
+	margin-top: 8rem;
+}
 .wrapper1 {
 	display: flex;
 	gap: 5rem;
@@ -415,6 +418,9 @@ span {
 	.wrapper {
 		padding: 2rem;
 		width: 70%;
+	}
+	#section-1 {
+		margin-top: 5rem;
 	}
 
 	.trial {
