@@ -29,8 +29,8 @@ screenshot.png
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-landing-page-with-css-flexbox-94adpsNmy2))
-- Live Site URL: [Add live site URL here]( https://4002-nonye.github.io/Huddle-landing-page/)
+- Solution URL: [solution URL]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-landing-page-with-css-flexbox-94adpsNmy2))
+- Live Site URL: [live site URL ]( https://4002-nonye.github.io/Huddle-landing-page/)
 
 ## My process
 
